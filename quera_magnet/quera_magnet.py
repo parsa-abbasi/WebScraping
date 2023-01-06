@@ -4,7 +4,7 @@ __email__ = "parsa.abbasi1996@gmail.com"
 __organization__ = "Quera"
 __website__ = "https://quera.org"
 __version__ = "1.0.0"
-__date__ = "2022-12-30"
+__date__ = "2023-01-06"
 
 import requests
 from bs4 import BeautifulSoup

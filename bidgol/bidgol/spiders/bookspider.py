@@ -1,3 +1,11 @@
+# Scraping the books from bidgolpublishing.com
+__author__ = "Parsa Abbasi"
+__email__ = "parsa.abbasi1996@gmail.com"
+__organization__ = "Quera"
+__website__ = "https://quera.org"
+__version__ = "1.0.0"
+__date__ = "2023-01-06"
+
 import scrapy
 
 class BookspiderSpider(scrapy.Spider):
