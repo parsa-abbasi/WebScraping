@@ -1,4 +1,4 @@
-# Introduction Web Scraping with Python
+# Web Scraping in Python
 
 This repository contains the code presented in the Web Scraping with Python presentation. You can find the information about the presentation and the slides [here](https://parsa-abbasi.github.io/talk/web-scraping-in-python/).
 
