@@ -1,0 +1,57 @@
+2023-04-05 23:39:49,277 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:39:52,216 DEBUG: https://quera.org:443 "GET /magnet/jobs HTTP/1.1" 200 None
+2023-04-05 23:39:52,483 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=1]
+2023-04-05 23:39:52,485 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:39:54,390 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=1 HTTP/1.1" 200 None
+2023-04-05 23:39:54,945 INFO: Sleeping for 0.6890000000000001 seconds
+2023-04-05 23:39:55,647 INFO: Woke up
+2023-04-05 23:39:55,648 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=2]
+2023-04-05 23:39:55,651 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:39:58,870 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=2 HTTP/1.1" 200 None
+2023-04-05 23:39:59,233 INFO: Sleeping for 1.058 seconds
+2023-04-05 23:40:00,300 INFO: Woke up
+2023-04-05 23:40:00,300 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=3]
+2023-04-05 23:40:00,302 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:02,081 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=3 HTTP/1.1" 200 None
+2023-04-05 23:40:02,430 INFO: Sleeping for 1.617 seconds
+2023-04-05 23:40:04,059 INFO: Woke up
+2023-04-05 23:40:04,059 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=4]
+2023-04-05 23:40:04,062 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:05,766 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=4 HTTP/1.1" 200 None
+2023-04-05 23:40:06,199 INFO: Sleeping for 0.555 seconds
+2023-04-05 23:40:06,764 INFO: Woke up
+2023-04-05 23:40:06,765 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=5]
+2023-04-05 23:40:06,767 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:08,953 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=5 HTTP/1.1" 200 None
+2023-04-05 23:40:09,367 INFO: Sleeping for 0.706 seconds
+2023-04-05 23:40:10,075 INFO: Woke up
+2023-04-05 23:40:10,075 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=6]
+2023-04-05 23:40:10,078 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:11,662 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=6 HTTP/1.1" 200 None
+2023-04-05 23:40:11,994 INFO: Sleeping for 0.501 seconds
+2023-04-05 23:40:12,508 INFO: Woke up
+2023-04-05 23:40:12,508 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=7]
+2023-04-05 23:40:12,511 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:14,202 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=7 HTTP/1.1" 200 None
+2023-04-05 23:40:14,562 INFO: Sleeping for 1.278 seconds
+2023-04-05 23:40:15,851 INFO: Woke up
+2023-04-05 23:40:15,851 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=8]
+2023-04-05 23:40:15,854 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:17,936 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=8 HTTP/1.1" 200 None
+2023-04-05 23:40:18,293 INFO: Sleeping for 1.291 seconds
+2023-04-05 23:40:19,590 INFO: Woke up
+2023-04-05 23:40:19,591 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=9]
+2023-04-05 23:40:19,593 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:22,131 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=9 HTTP/1.1" 200 None
+2023-04-05 23:40:22,519 INFO: Sleeping for 1.414 seconds
+2023-04-05 23:40:23,946 INFO: Woke up
+2023-04-05 23:40:23,946 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=10]
+2023-04-05 23:40:23,950 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:26,211 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=10 HTTP/1.1" 200 None
+2023-04-05 23:40:26,560 INFO: Sleeping for 1.062 seconds
+2023-04-05 23:40:27,634 INFO: Woke up
+2023-04-05 23:40:27,634 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?page=11]
+2023-04-05 23:40:27,637 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-04-05 23:40:29,317 DEBUG: https://quera.org:443 "GET /magnet/jobs?page=11 HTTP/1.1" 200 None
+2023-04-05 23:40:29,635 INFO: Sleeping for 1.387 seconds
+2023-04-05 23:40:31,026 INFO: Woke up
