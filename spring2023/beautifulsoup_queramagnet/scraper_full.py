@@ -35,7 +35,7 @@ def extract_data(page_soup):
     page_results = []
     
     # Find each jobs
-    jobs = soup.select('.css-1g5o4an')
+    jobs = page_soup.select('.css-1g5o4an')
 
     for count, job in enumerate(jobs):
         # A dictionary to store information about the job
